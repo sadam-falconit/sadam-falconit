@@ -7,6 +7,8 @@ function App() {
   Hello Word!
 
   my name is saim khan
+
+  my ciy name lahore
   </>
   );
 }
